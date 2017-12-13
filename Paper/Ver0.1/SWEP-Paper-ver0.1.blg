@@ -1,0 +1,19 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: SWEP-Paper-ver0.1.aux
+The style file: ieeetran.bst
+Database file #1: References/all-references.bib
+Repeated entry---line 138 of file References/all-references.bib
+ : @inproceedings{park2000efficient
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 146 of file References/all-references.bib
+ : @inproceedings{jalab2011image
+ :                              ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in Tian2013ARO
+Warning--empty booktitle in Dr2010EfficientUO
+
+Done.
+(There were 2 error messages)
